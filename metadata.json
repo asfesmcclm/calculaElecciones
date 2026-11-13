@@ -1,0 +1,6 @@
+{
+  "name": "ActaClara",
+  "description": "Plataforma minimalista y auditable para el cálculo de elecciones sindicales, carga de actas en tiempo real, asignación D'Hondt y trazabilidad criptográfica.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
