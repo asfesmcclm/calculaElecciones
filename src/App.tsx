@@ -378,7 +378,7 @@ export default function App() {
             className="flex items-center shrink-0 rounded-lg focus-visible:outline-none focus-visible:ring-2 focus-visible:ring-[#C8102E]"
           >
             <img
-              src="/assets/aistudio/Logo_UGT_FeSMC_Castilla_La_Mancha_transparente_4K_5f4d32d0.png"
+              src={`${import.meta.env.BASE_URL}assets/aistudio/Logo_UGT_FeSMC_Castilla_La_Mancha_transparente_4K_5f4d32d0.png`}
               alt="UGT FeSMC Castilla-La Mancha"
               className="h-8 sm:h-9 md:h-11 w-auto object-contain shrink-0"
             />
